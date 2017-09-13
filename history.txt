@@ -49,3 +49,108 @@
    49  pwd
    50  history
    51  history > history.txt
+   52  ls -la
+   53  cat history.txt
+   54  ls -la
+   55  git init
+   56  git add .
+   57  git config --global user.name aijatikuma@inbox.lv
+   58  ls -la
+   59  git commit -m "20170913_14_00"
+   60  git config --global user.email aijatikuma@inbox.lv
+   61  git remote add origin https://github.com/AijaT/DMI.git
+   62  git push origin master
+   63  history
+   64  pwd
+   65  mkdir apakshdarbi
+   66  ls -l
+   67  cd apakshdarbi/
+   68  ls -la
+   69  history > vesture.txt
+   70  ls -la
+   71  cd ..
+   72  pwd
+   73  ls -l
+   74  rmdir apakshdarbi/
+   75  man rmdir
+   76  rm apakshdarbi/
+   77  man rm
+   78  rm -rf apakshdarbi/
+   79  ls -la
+   80  cd /
+   81  mkdir apaksdarbi
+   82  rm dev
+   83  rm -rf dev
+   84  rm dev1
+   85  cd
+   86  pwd
+   87  la -l
+   88  cd darbi/
+   89  echo Tecmint is a community of Linux Nerds
+   90  x= 10
+   91  x=10
+   92  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"TecmintisacommunityofLinuxNerds
+   93  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   94  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds
+echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+pwd
+   95  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   96  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+   97  echo -e "\vTecmint \vis \vcommunity \vof \vLinux \vNerds"
+   98  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+   99  echo -e "Tecmint \ris a community of Linux Nerds"
+  100  echo -e "Tecmint is a community of Linux Nerds"
+  101  echo -e "Tecmint is a community of \aLinux Nerds"
+  102  echo*
+  103  echo *
+  104  echo *.jpeg
+  105  echo "Test Page" > testpage
+  106  echo "Teksts" > a.txt
+  107  ls -la
+  108  ls -l
+  109  cat a.txt
+  110  echo "TekstsTeksts" > b.txt
+  111  ls -l
+  112  cat a.txt
+  113  cat b.txt
+  114  man ls > ls_komandas_apraksts
+  115  ls -l
+  116  cat ls_komandas_apraksts
+  117  cat a.txt > d.txt
+  118  ls -l
+  119  cat b.txt > d.txt
+  120  lx -l
+  121  ls -l
+  122  cat a.txt > d.txt
+  123  cat b.txt >> d.txt
+  124  ls -l
+  125  cat d.txt
+  126  cp d.txt dd.txt
+  127  ls -l
+  128  cp c.txt ../c1.txt
+  129  cd ..
+  130  ls -l
+  131  pwd
+  132  c1.txt darbi/c2.txt
+  133  ls -l
+  134  cd darbi/
+  135  ls -l
+  136  cp a.txt ../a1.txt
+  137  cd ..
+  138  ls -l
+  139  cp a1.txt darbi/a2.txt
+  140  cd darbi/
+  141  ls -l
+  142  cd ..
+  143  mv ~/darbi/ls_komandas_apraksts ~/
+  144  cd
+  145  ls -l
+  146  cd darbi/
+  147  ls -l
+  148  pwd
+  149  cd darbi/
+  150  ls -la
+  151  git add .
+  152  ls -la
+  153  history >history.txt
