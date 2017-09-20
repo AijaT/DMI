@@ -1,0 +1,44 @@
+    1  VirtualBox --startvm XP
+    2  ls
+    3  nano git-download.sh
+    4  ls -l
+    5  cat git-download.sh 
+    6  git-download
+    7  ls
+    8  git- download
+    9  echo $PATH
+   10  whereis ls
+   11  ls -l /bin/ls
+   12  cat /bin/ls
+   13  ls -l
+   14  pwd
+   15  ls
+   16  pwd
+   17  PATH=$PATH:/home/user
+   18  echo$PATH
+   19  echo $PATH
+   20  ls
+   21  git-dowload
+   22  git-download.sh
+   23  ls -l git-download.sh 
+   24  ls -l /bin/ls
+   25  chmod 744 git-download.sh 
+   26  ls -l git-download.sh 
+   27  git-download
+   28  git-download.sh 
+   29  ls -l
+   30  mv git-download.sh git-download
+   31  ls -l
+   32  git-download
+   33  ls -l
+   34  cd DMI
+   35  ls -la
+   36  mv ~/git-download ./
+   37  ls -l
+   38  PATH=$PATH:~/DMI
+   39  git-download
+   40  ls -l
+   41  rm -rf DMI
+   42  ls -l
+   43  nano git-upload
+   44  history > history_20170920.txt
