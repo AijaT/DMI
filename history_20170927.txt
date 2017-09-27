@@ -35,3 +35,78 @@
    35  pwd
    36  ls -la
    37  history > history_20170927.txt
+   38  ls -la
+   39  nano git-upload
+   40  git-upload
+   41  pwd
+   42  ls -la
+   43  echo $0
+   44  echo $#
+   45  echo $*
+   46  echo $@
+   47  echo $?
+   48  echo $$
+   49  echo $!
+   50  nano shell_examples.sh 
+   51  shell_examples.sh 
+   52  nano shell_examples.sh 
+   53  shell_examples.sh 
+   54  nano shell_examples.sh 
+   55  shell_examples.sh  arg1
+   56  shell_examples.sh arg2
+   57  shell_examples.sh arg1 arg2 arg3
+   58  nano shell_examples.sh 
+   59  shell_examples.sh 
+   60  nano shell_examples.sh 
+   61  shell_examples.sh 
+   62  nano shell_examples.sh 
+   63  shell_examples.sh arg1 arg2 arg3
+   64  nano shell_examples.sh 
+   65  shell_examples.sh arg1 arg2 arg3
+   66  nano shell_examples.sh 
+   67  shell_examples.sh arg1 arg2 arg3
+   68  nano shell_examples.sh 
+   69  shell_examples.sh arg1 arg2 arg3
+   70  nano shell_examples.sh 
+   71  shell_examples.sh arg1 arg2 arg3
+   72  nano shell_examples.sh 
+   73  shell_examples.sh arg1 arg2 arg3
+   74  shell_examples.sh 
+   75  shell_examples.sh arg1
+   76  shell_examples.sh arg1 arg2
+   77  shell_examples.sh arg1 arg2 arg3
+   78  nano shell_examples.sh 
+   79  shell_examples.sh arg1 arg2 arg3
+   80  nano shell_examples.sh 
+   81  shell_examples.sh arg1 arg2 arg3
+   82  shell_examples.sh
+   83  shell_examples.sh arg1
+   84  shell_examples.sh arg1 arg2
+   85  shell_examples.sh arg1 arg2 arg3
+   86  nano shell_examples.sh 
+   87  shell_examples.sh arg1 arg2 arg3
+   88  nano shell_examples.sh 
+   89  shell_examples.sh arg1 arg2 arg3
+   90  nano shell_examples.sh 
+   91  shell_examples.sh arg1 arg2 arg3
+   92  nano shell_examples.sh 
+   93  shell_examples.sh arg1 arg2 arg3
+   94  nano shell_examples.sh 
+   95  shell_examples.sh arg1 arg2 arg3
+   96  nano shell_examples.sh 
+   97  shell_examples.sh arg1 arg2 arg3
+   98  shell_examples.sh arg1 arg2 arg3 arg4
+   99  nano shell_examples.sh 
+  100  shell_examples.sh arg1 arg2 arg3 arg4
+  101  nano shell_examples.sh 
+  102  shell_examples.sh
+  103  nano shell_examples.sh 
+  104  shell_examples.sh
+  105  nano shell_examples.sh 
+  106  shell_examples.sh
+  107  nano shell_examples.sh 
+  108  shell_examples.sh
+  109  nano shell_examples.sh 
+  110  shell_examples.sh
+  111  nano git-upload
+  112  history > history_20170927.txt
