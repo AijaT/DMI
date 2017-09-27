@@ -1,0 +1,37 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/AijaT/DMI.git
+    3  ls -l
+    4  cd DMI
+    5  ls- la
+    6  ls -la
+    7  pwd
+    8  NAME="Aija"
+    9  echo $NAME
+   10  unset NAME
+   11  echo $NAME
+   12  nano shell_examples.sh
+   13  ls -la
+   14  cat  shell_examples.sh 
+   15  pwd
+   16  PATH=$PATH:~/DMI
+   17  echo $PATH
+   18  shell_examples.sh
+   19  chmod 744 shell_examples.sh
+   20  ls -la
+   21  shell_examples.sh 
+   22  ls -la
+   23  nano shell_examples.sh 
+   24  shell_examples.sh 
+   25  cat  shell_examples.sh 
+   26  nano shell_examples.sh 
+   27  ls -la
+   28  cat shell_examples.sh 
+   29  shell_examples.sh 
+   30  nano shell_examples.sh 
+   31  shell_examples.sh 
+   32  nano shell_examples.sh 
+   33  shell_examples.sh 
+   34  cat shell_examples.sh 
+   35  pwd
+   36  ls -la
+   37  history > history_20170927.txt
