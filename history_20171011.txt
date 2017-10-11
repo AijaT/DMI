@@ -52,3 +52,31 @@
    52  ./shell_operators.sh 
    53  nano git-upload
    54  history > history_20171011.txt
+   55  ./git-upload
+   56  nano shell_operators.sh
+   57  ./shell_operators.sh 5+10
+   58  echo shell_operators.sh 
+   59  ./shell_operators.sh 5-10
+   60  nano shell_operators.sh
+   61  ./shell_operators.sh 5 10
+   62  5 10
+   63  nano shell_operators.sh
+   64  ./shell_operators.sh 5 10
+   65  nano shell_operators.sh
+   66  ./shell_operators.sh 5 10
+   67  ./shell_operators.sh 6 8
+   68  ./shell_operators.sh 23 13
+   69  nano shell_operators.sh
+   70  ./shell_operators.sh
+   71  ./shell_operators.sh 1
+   72  ./shell_operators.sh 1 56
+   73  nano dialogs.sh
+   74  ./dialogs.sh
+   75  nano dialogs.sh
+   76  ls -la
+   77  chmod 744 dialogs.sh 
+   78  ./dialogs.sh
+   79  nano dialogs.sh
+   80  ./dialogs.sh
+   81  nano git-upload
+   82  history > history_20171011.txt
