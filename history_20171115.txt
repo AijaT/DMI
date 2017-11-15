@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  firefox $
+    3  git clone https://github.com/AijaT/DMI.git
+    4  ls -l
+    5  cd DMI
+    6  cd PYTHON
+    7  nano sin_caur_summu_ver1.py
+    8  python sin_caur_summu_ver1.py 
+    9  nano sin_caur_summu_ver1.py 
+   10  python sin_caur_summu_ver1.py 
+   11  nano sin_caur_summu_ver1.py 
+   12  python sin_caur_summu_ver1.py 
+   13  nano sin_caur_summu_ver1.py 
+   14  cp sin_caur_summu_ver1.py sin_caur_summu_ver2.py 
+   15  ls -l
+   16  nano sin_caur_summu_ver2.py
+   17  python sin_caur_summu_ver2.py 
+   18  nano sin_caur_summu_ver2.py
+   19  python sin_caur_summu_ver2.py 
+   20  nano sin_caur_summu_ver2.py
+   21  cp sin_caur_summu_ver2.py sin_caur_summu_ver3.py
+   22  nano sin_caur_summu_ver3.py
+   23  python sin_caur_summu_ver3.py 
+   24  nano sin_caur_summu_ver3.py
+   25  python sin_caur_summu_ver3.py 
+   26  cd ..
+   27  history > history_20171115.txt
