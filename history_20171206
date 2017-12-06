@@ -6,6 +6,3 @@
     6  cd ..
     7  cd DMI
     8  history > history_20171206
-    9  ls -l
-   10  ls -la
-   11  history > history.txt
