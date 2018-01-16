@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  git upload https://github.com/AijaT/DMI
+    3  git clone https://github.com/AijaT/DMI
+    4  cd DMI
+    5  cd PYTHON
+    6  idle &
+    7  nano mans_cosinuss
+    8  python mans_cosinuss
+    9  ./mans_cosinuss
+   10  chmod 744 mans_cosinuss
+   11  ./mans_cosinuss
+   12  mans
+   13  nano mans_cosinuss
+   14  python mans_cosinuss
+   15  nano mans_cosinuss
+   16  python mans_cosinuss
+   17  nano mans_cosinuss
+   18  python mans_cosinuss
+   19  nano mans_cosinuss
+   20  python mans_cosinuss
+   21  nano mans_cosinuss
+   22  python mans_cosinuss
+   23  nano mans_cosinuss
+   24  python mans_cosinuss
+   25  nano mans_cosinuss
+   26  python mans_cosinuss
+   27  nano mans_cosinuss
+   28  python mans_cosinuss
+   29  nano mans_cosinuss
+   30  python mans_cosinuss
+   31  nano mans_cosinuss
+   32  python mans_cosinuss
+   33  nano mans_cosinuss
+   34  python mans_cosinuss
+   35  nano mans_cosinuss
+   36  python mans_cosinuss
+   37  nano mans_cosinuss
+   38  python mans_cosinuss
+   39  nano mans_cosinuss
+   40  python mans_cosinuss
+   41  idle &
+   42  nano mans_cosinuss
+   43  cd ..
+   44  history > history_20170116
+   45  git upload_20170116
+   46  git add 
+   47  git commit 20170116
+   48  git add 20170116
+   49  git upload
+   50  git upload 20170116
+   51  git-upload
+   52  git add.
+   53  history > history_20170116.txt

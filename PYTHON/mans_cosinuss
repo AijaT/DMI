@@ -1,0 +1,103 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+from math import cos 
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Rekurences reizinātāja zīmēšana
+'''
+print "                        (-1)!      "
+print "R = (-1) * 2*k *  ---------------- " 
+print "                    2*k * (2*k-1)  "
+'''
+
+
+#Funkcijas zīmēšana parādot to terminālī
+
+'''
+print   "500"
+print "------"
+print "\      "
+print " \       k    2*k         "
+print "  \   (-1) * x           "
+print "   \  ________________   "
+print "   /            2*k          "
+print "  /   (2*k)! * 2                    "
+print " /                       "
+print "/                        "
+print "------"
+print    "k=0"
+'''
+
+
+
+#funkcijas grafika zīmēšana
+'''
+def mans_cosinuss(x):
+	k=0
+	a=1
+	S=a
+	print "Izdruka no liet.f. a0 = %6.2f S0 = %6.2f"%(a,S)
+
+	while k < 500:
+	    k = k + 1
+	    R = (-1)*x*x/(2*k*(2*k-1)*4)
+	    a = a * R
+	    S = S + a
+	   # print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
+
+
+	print "Izdruka no liet.f. Beigas!"
+	return S
+
+x = np.arange (0.0, 6.18, 0.01)
+y = np.cos(x/2)
+yy = mans_cosinuss(x)
+
+plt.plot(x,y)
+plt.plot(x,yy)
+plt.show()
+'''
+
+
+
+#funkcijas aprēķināšana
+'''
+def mans_cosinuss(x):
+	k=0
+	a=1
+	S=a
+	print "Izdruka no liet.f. a0 = %6.2f S0 = %6.2f"%(a,S)
+
+	while k < 500:
+	    k = k + 1
+	    R = (-1)*x*x/(2*k*(2*k-1)*4)
+	    a = a * R
+	    S = S + a
+	    print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
+x = 1 * input("Lietotāj, lūdzu ievadi argumentu (x): ")
+y = cos(x/2)
+print "standarta cos(%.2f) = %6.2f"%(x,y)
+yy = mans_cosinuss(x)
+print type(yy)
+print "mans cos(%.2f) = %6.2f"%(x,yy)
+'''
