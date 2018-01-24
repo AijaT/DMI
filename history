@@ -1,0 +1,105 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://www.github.com/AijaT/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  nano mans_cosinuss
+    6  python mans_cosinuss
+    7  ./mans_cosinuss 
+    8  nano mans_cosinuss
+    9  ./mans_cosinuss 
+   10  python mans_cosinuss
+   11  nano mans_cosinuss
+   12  python mans_cosinuss
+   13  ./mans_cosinuss 
+   14  nano mans_cosinuss
+   15  ./mans_cosinuss 
+   16  nano mans_cosinuss
+   17  ./mans_cosinuss 
+   18  nano mans_cosinuss
+   19  ./mans_cosinuss 
+   20  nano mans_cosinuss
+   21  ./mans_cosinuss 
+   22  nano mans_cosinuss
+   23  ./mans_cosinuss 
+   24  nano mans_cosinuss
+   25  ./mans_cosinuss 
+   26  nano mans_cosinuss
+   27  ./mans_cosinuss 
+   28  nano mans_cosinuss
+   29  ./mans_cosinuss 
+   30  nano mans_cosinuss
+   31  ./mans_cosinuss 
+   32  nano mans_cosinuss
+   33  chmod
+   34  nano mans_cosinuss
+   35  ./mans_cosinuss 
+   36  nano mans_cosinuss
+   37  ./mans_cosinuss 
+   38  nano mans_cosinuss
+   39  ./mans_cosinuss 
+   40  nano mans_cosinuss
+   41  ./mans_cosinuss 
+   42  nano mans_cosinuss
+   43  ./mans_cosinuss 
+   44  nano mans_cosinuss
+   45  ./mans_cosinuss 
+   46  nano mans_cosinuss
+   47  ./2.lab.d
+   48  chmod 744 2.lab.d
+   49  ./2.lab.d
+   50  nano 3.lab.d
+   51  nano 2.lab.d
+   52  nano 3.lab.d
+   53  nano 2.lab.d
+   54  nano 3.lab.d
+   55  nano 2.lab.d
+   56  nano 3.lab.d
+   57  ./3.lab.d
+   58  chmod 744 3.lab.d
+   59  ./3.lab.d
+   60  nano 3.lab.d
+   61  ./3.lab.d
+   62  nano 3.lab.d
+   63  nano 2.lab.d
+   64  nano 3.lab.d
+   65  nano 2.lab.d
+   66  nano 3.lab.d
+   67  nano 2.lab.d
+   68  nano 3.lab.d
+   69  ./3.lab.d
+   70  nano 3.lab.d
+   71  nano 2.lab.d
+   72  ./3.lab.d
+   73  nano 3.lab.d
+   74  ./3.lab.d
+   75  nano 3.lab.d
+   76  ./3.lab.d
+   77  nano 3.lab.d
+   78  nano 4.lab.d
+   79  ./4.lab.d
+   80  chmod 744 4.lab.d
+   81  ./4.lab.d
+   82  nano 4.lab.d
+   83  nano 3.lab.d
+   84  nano 4.lab.d
+   85  ./4.lab.d
+   86  nano 4.lab.d
+   87  ./4.lab.d
+   88  nano 4.lab.d
+   89  ./4.lab.d
+   90  nano 4.lab.d
+   91  ./4.lab.d
+   92  nano 4.lab.d
+   93  ./4.lab.d
+   94  nano 4.lab.d
+   95  ./4.lab.d
+   96  nano 4.lab.d
+   97  ./4.lab.d
+   98  nano 4.lab.d
+   99  nano 3.lab.d
+  100  nano 4.lab.d
+  101  nano 3.lab.d
+  102  nano 4.lab.d
+  103  history > history_20180124
+  104  cd ..
+  105  history > history
