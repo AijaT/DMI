@@ -55,6 +55,7 @@ print "Aprēķins veikts ar %d iterācijām"%(k)
 
 #Rekurences reizinātāja zīmēšana
 '''
+print "Rekurences reizinātājs :"
 print "                        (-1)!      "
 print "R = (-1) * 2*k *  ---------------- " 
 print "                    2*k * (2*k-1)  "
@@ -64,6 +65,7 @@ print "                    2*k * (2*k-1)  "
 #Funkcijas zīmēšana parādot to terminālī
 
 '''
+print "Funkcija : "
 print   "500"
 print "------"
 print "\      "

@@ -1,0 +1,54 @@
+    1  git clone https://www.github.com/AijaT/DMI
+    2  cd DMI
+    3  LS -L
+    4  ls -l
+    5  nano 1.lab.d
+    6  chmod 744 1.lab.d
+    7  ./1.lab.d 
+    8  nano 1.lab.d
+    9  ./1.lab.d 
+   10  nano 1.lab.d
+   11  ./1.lab.d 
+   12  nano 1.lab.d
+   13  ./1.lab.d 
+   14  nano 1.lab.d
+   15  ./1.lab.d 
+   16  nano 1.lab.d
+   17  ./1.lab.d 
+   18  nano 1.lab.d
+   19  ./1.lab.d 
+   20  nano 1.lab.d
+   21  ./1.lab.d 
+   22  nano 1.lab.d
+   23  ./1.lab.d 
+   24  nano 1.lab.d
+   25  ./1.lab.d 
+   26  ls -l
+   27  cd PYTHON
+   28  ls -l
+   29  cd DMI
+   30  ls -l
+   31  cd PYTHON
+   32  ls -l
+   33  nano 2.lab.d
+   34  ./2.lab.d 
+   35  nano 2.lab.d
+   36  nano 3.lab.d 
+   37  ./3.lab.d 
+   38  nano 3.lab.d 
+   39  ./3.lab.d 
+   40  nano 3.lab.d 
+   41  nano 4.lab.d 
+   42  ./4.lab.d 
+   43  nano 4.lab.d 
+   44  ./4.lab.d 
+   45  nano 4.lab.d 
+   46  ./4.lab.d 
+   47  nano 4.lab.d 
+   48  idle $
+   49  nano 4.lab.d 
+   50  ./4.lab.d 
+   51  nano 4.lab.d 
+   52  idle $
+   53  nano 4.lab.d 
+   54  history > history_26012018

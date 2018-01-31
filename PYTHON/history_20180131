@@ -1,0 +1,89 @@
+    1  git clone https://www.github.com/AijaT/DMI
+    2  cd DMI
+    3  ls -l
+    4  nano 1.lab.d 
+    5  cd PYTHON
+    6  ls -l
+    7  cd DMI
+    8  ls -l
+    9  cd PYTHON
+   10  ls -l
+   11  nano LD4
+   12  nano LD4.py 
+   13  nano 5.lab.d
+   14  chmos 744 5.lab.d
+   15  chmod 744 5.lab.d
+   16  ./5.lab.d 
+   17  idle &
+   18  nano 5.lab.d
+   19  ./5LDsk
+   20  ls -l
+   21  chmod LD5sk.py
+   22  chmod 744 LD5sk.py
+   23  ./LD5sk.py 
+   24  nano LD5sk.py 
+   25  cd ..
+   26  ls -l
+   27  cd ..
+   28  ls -l
+   29  nano 1.lab.d 
+   30  nano 0.lab.d
+   31  chmod 744 0.lab.d
+   32  ./0.lab.d 
+   33  nano 0.lab.d
+   34  ./0.lab.d 
+   35  nano 0.lab.d
+   36  ./0.lab.d 
+   37  nano 0.lab.d
+   38  ./0.lab.d 
+   39  nano 0.lab.d
+   40  ./0.lab.d 
+   41  nano 0.lab.d
+   42  ./0.lab.d 
+   43  nano 0.lab.d
+   44  ./0.lab.d 
+   45  nano 0.lab.d
+   46  ./0.lab.d 
+   47  nano 0.lab.d
+   48  ./0.lab.d 
+   49  nano 0.lab.d
+   50  ./0.lab.d 
+   51  nano 0.lab.d
+   52  ./0.lab.d 
+   53  nano 0.lab.d
+   54  ./0.lab.d 
+   55  nano 0.lab.d
+   56  ./0.lab.d 
+   57  nano 0.lab.d
+   58  ./0.lab.d 
+   59  nano 0.lab.d
+   60  ./0.lab.d 
+   61  nano 0.lab.d
+   62  ./0.lab.d 
+   63  nano 0.lab.d
+   64  ./0.lab.d 
+   65  mkdir FINAL
+   66  ls -l
+   67  chmood 744 FINAL
+   68  chmod FINAL
+   69  cd ..
+   70  git clone https://www.github.com/AijaT/DMI
+   71  cd DMI
+   72  history > history_310118
+   73  ./git-upload 310118
+   74  cd DMI
+   75  cd ..
+   76  ./git-upload 310118
+   77  ls -la
+   78  cd DMI
+   79  ./git-upload 310118
+   80  cd PYTHON
+   81  ls -l
+   82  ls -la
+   83  cd ..
+   84  ls -l
+   85  cd PYTHON
+   86  cd DMI
+   87  cd PYTHON
+   88  ls -l
+   89  history > history_20180131

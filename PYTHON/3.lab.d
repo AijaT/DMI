@@ -78,5 +78,6 @@ yy = mans_cosinuss(x)
 
 plt.plot(x,y)
 plt.plot(x,yy)
+plt.grid
 plt.show()
 '''
